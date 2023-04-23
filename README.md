@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Classicjoe
-- 👀 I’m interested in community management
-- 🌱 I’m currently learning how to create NFT
+- 👀 I’m a front-end developer 
+- 🌱 I’m currently progress to Full stack developer 
 - 💞️ I’m looking to collaborate on any strong project
-- 📫 How to reach me @, chijoeclassico@gmail.com
+- 📫 How to reach me chijoeclassico@gmail.com
 
 <!---
 Classicjoe/Classicjoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
