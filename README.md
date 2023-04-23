@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Classicjoe
+- 👨‍💻 A data analytics 
 - 👀 I’m a front-end developer 
 - 🌱 I’m currently progressing to Full stack developer 
 - 💞️ I’m looking to collaborate on any strong project
