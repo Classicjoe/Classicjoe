@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Classicjoe
 - 👀 I’m a front-end developer 
-- 🌱 I’m currently progress to Full stack developer 
+- 🌱 I’m currently progressing to Full stack developer 
 - 💞️ I’m looking to collaborate on any strong project
 - 📫 How to reach me chijoeclassico@gmail.com
 
