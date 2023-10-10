@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Classicjoe
-- 👨‍💻 A data analytics 
-- 👀 I’m a front-end developer 
-- 🌱 I’m currently progressing to Full stack developer 
+- 👋 Data Analyst | Python/R | SQL | power bi/Excel| Data Visualization
 - 💞️ I’m looking to collaborate on any strong project
 - 📫 How to reach me chijoeclassico@gmail.com
 
