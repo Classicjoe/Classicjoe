@@ -1,4 +1,4 @@
-- 👋 Data Analyst | Python/R | SQL | power bi/Excel| Data Visualization
+- 👋 Data Analyst | Python/R | MYSQL | power bi/Excel| Data Visualization
 - 💞️ I’m looking to collaborate on any strong project
 - 📫 How to reach me chijoeclassico@gmail.com
 
